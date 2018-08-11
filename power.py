@@ -1,3 +1,3 @@
-a,b=input().split()
-a,b=int(a),int(b)
-print(a**b)
+s,r=input().split()
+s,r=int(s),int(r)
+print(s**r)
