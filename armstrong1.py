@@ -1,0 +1,11 @@
+k=int(input(""))
+temp=k
+sum=0
+while(k>0):
+    a=k%10
+    sum=a**3+sum
+    k=k//10
+if(temp==sum):
+    print("yes")
+else:
+    print("no")
