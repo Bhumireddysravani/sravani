@@ -5,4 +5,4 @@ for i in range(s+1,r):
                    if(i%k==0):
                            break
             else:
-                     print i,
+                     print("i")
