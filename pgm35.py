@@ -1,4 +1,4 @@
-z=raw_input()
+z=input()
 count=0
 for i in z:
     if(i.isdigit()):
